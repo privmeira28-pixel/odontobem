@@ -1,0 +1,23 @@
+SITE ODONTO BEM · O QUE CONFERIR ANTES DE PUBLICAR
+==================================================
+
+Montado a partir do Instagram @odontobemclinica:
+- "Especialistas em cuidar do seu sorriso"
+- Clareamento, ortodontia, prótese e implantes
+- Avaliação gratuita
+- WhatsApp: (11) 97874-7790
+
+CORES (tiradas do logo)
+- Turquesa #5ce1e6 (fundo do logo), azul-marinho #0b2a4a (dente e nome),
+  azul #1e6fb8 (curva) e amarelo/laranja #f6c343 / #f08a3c (detalhe do dente).
+- O símbolo do dente foi redesenhado em SVG no próprio index.html (symbol "i-logo").
+  Se a clínica mandar o logo original em PNG ou SVG, dá para trocar.
+
+1. WHATSAPP E INSTAGRAM
+   Já configurados. Para trocar, mude só WHATSAPP e INSTAGRAM no começo do js/script.js.
+
+2. ENDEREÇO
+   Não está no Instagram. Troque [Rua, número, bairro, cidade] na seção Contato.
+
+3. RESPONSÁVEL TÉCNICO (obrigatório pelo CFO)
+   No rodapé, troque [Dr(a). Nome] e [número].
